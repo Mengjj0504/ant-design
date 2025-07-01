@@ -36,6 +36,16 @@ const treeData = [
         value: '0-1-2',
         key: '0-1-2',
       },
+      {
+        title: 'Child Node6',
+        value: '0-1-3',
+        key: '0-1-3',
+      },
+      {
+        title: 'Child Node7',
+        value: '0-1-4',
+        key: '0-1-4',
+      },
     ],
   },
 ];
